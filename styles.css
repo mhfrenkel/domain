@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>MHF Photography</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <a href="index.html" id="header-link"><strong>Maxwell Harris Frenkel</strong></a>
+    </header>
+    <strong>A photo for each month</strong> <br>
+
+    <h1>2023</h1>
+    <div class="photo-container">
+        <div>
+            <img class="photo" src="images/Bikes.JPEG" alt="Image Description">
+            <p class="photo-description">DeVoe Street, September 2023</p>
+        </div>
+
+        <!-- Add the rest of your images and descriptions here -->
+    </div>
+
+    <h1>2022</h1>
+    <div class="photo-container">
+        <div>
+            <img class="photo" src="images/Bridge.jpeg" alt="Image Description">
+            <p class="photo-description">Williamsburg Bridge, December 2023</p>
+        </div>
+
+    </div>
+</body>
+</html>
